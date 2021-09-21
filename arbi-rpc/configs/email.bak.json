@@ -1,0 +1,9 @@
+{
+    "email.receiver": "xxx@126.com",
+    "email.sender": "xxx@126.com",
+    "email.server": "smtp.126.com",
+    "email.port": "465",
+    "email.username": "xxx@126.com",
+    "email.password": "xxx"
+}
+    

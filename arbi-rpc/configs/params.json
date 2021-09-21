@@ -1,0 +1,41 @@
+{
+    "neo":{
+        "vt_symbols": ["NEOUSDT.BINANCE", "NEO-USDT.HUOBI"],
+        "gateway_names": ["BINANCES", "HUOBIS"],
+        "fix_sizes": [0.1, 1],
+        "arbi_window": 100,
+        "arbi_dev": 0.0,
+        "arbi_high": 0.07,
+        "arbi_low": -0.03,
+        "price_add": 0.1,
+        "group_id": 0,
+        "fix_fluct": 0.1,
+        "move_bias": 0.02
+    },
+    "eth":{
+        "vt_symbols": ["ETHUSDT.BINANCE", "ETH-USDT.HUOBI"],
+        "gateway_names": ["BINANCES", "HUOBIS"],
+        "fix_sizes": [0.01, 1],
+        "arbi_window": 100,
+        "arbi_dev": 0.0,
+        "arbi_high": 4.0,
+        "arbi_low": -1.0,
+        "price_add": 4.0,
+        "group_id": 0,
+        "fix_fluct": 0.8,
+        "move_bias": 0.4
+    },
+    "btc":{
+        "vt_symbols": ["BTCUSDT.BINANCE", "BTC-USDT.HUOBI"],
+        "gateway_names": ["BINANCES", "HUOBIS"],
+        "fix_sizes": [0.001, 1],
+        "arbi_window": 100,
+        "arbi_dev": 0.0,
+        "arbi_high": 12.0,
+        "arbi_low": -12.0,
+        "price_add": 18.0,
+        "group_id": 0,
+        "fix_fluct": 2.0,
+        "move_bias": 4.0
+    }
+}

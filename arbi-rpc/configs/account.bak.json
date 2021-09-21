@@ -1,0 +1,20 @@
+{
+    "binances_settting":{
+        "key": "your key",
+        "secret": "your secret",
+        "会话数": 3,
+        "服务器": "REAL",
+        "合约模式": "正向",
+        "代理地址": "",
+        "代理端口": 0
+    },
+    "huobis_setting":{
+        "API Key": "your key",
+        "Secret Key": "your secret",
+        "会话数": 3,
+        "合约模式": "正向",
+        "代理地址": "",
+        "代理端口": ""
+    }
+}
+
